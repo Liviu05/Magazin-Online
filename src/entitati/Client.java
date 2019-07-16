@@ -68,7 +68,7 @@ public class Client extends Produs {
   }
 
 
-  public void setareDiscountPersoanaJuridica (double discount) {
+  public void setareDiscountPersoanaJuridica   (double discount) {
 
     setPersoanaJuridica(true);
     setValoareDiscountPersoanaJuridica(discount);
